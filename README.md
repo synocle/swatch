@@ -1,7 +1,10 @@
 # swatch
-Searches Google for `Hours since [currentDateTime]` -- thus, it is a stopwatch.
+Searches Google for `Time since [currentDateTime]` -- thus, it is a stopwatch.
 
-You may replace `Hours` with `Time`, `Seconds`, `Minutes`, `Days` et cetera.
+You may replace `Time` with `Hours`, `Seconds`, `Minutes`, `Days` et cetera.
+
+The page will show you the time elapsed since you opened it.
+
 
 Place it in C:\Windows and then you can run the command "swatch" in your terminal.
 
